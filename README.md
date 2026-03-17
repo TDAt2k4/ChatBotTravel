@@ -1,4 +1,4 @@
-# 🧳 Travel Chatbot RAG (Vietnam Tourism Assistant)
+# Travel Chatbot RAG (Vietnam Tourism Assistant)
 
 Chatbot AI hỗ trợ người dùng tìm kiếm và gợi ý địa điểm du lịch tại Việt Nam bằng kỹ thuật **RAG (Retrieval-Augmented Generation)**.
 
