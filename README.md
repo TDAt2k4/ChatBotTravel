@@ -1,5 +1,5 @@
 ---
-title: Gradio Chatbot
+title: Chat Bot Travel
 emoji: 💬
 colorFrom: yellow
 colorTo: purple
