@@ -34,3 +34,6 @@ dataset/*.xlsx
 # OS
 # =====================
 .DS_Store
+
+vector_db/*.faiss
+vector_db/*.pkl
