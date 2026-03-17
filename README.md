@@ -1,3 +1,8 @@
+## 🚀 Live Demo
+
+[![HuggingFace Space](https://img.shields.io/badge/HuggingFace-Demo-yellow)](https://huggingface.co/spaces/kerodat2004/Chat_Bot_Travel)
+
+👉 Click vào badge để mở web demo
 # Travel Chatbot RAG (Vietnam Tourism Assistant)
 
 Chatbot AI hỗ trợ người dùng tìm kiếm và gợi ý địa điểm du lịch tại Việt Nam bằng kỹ thuật **RAG (Retrieval-Augmented Generation)**.
