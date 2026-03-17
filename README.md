@@ -21,14 +21,14 @@ Chatbot AI hỗ trợ người dùng tìm kiếm và gợi ý địa điểm du 
 ---
 
 ##  System Architecture
-User Query
-|
+User Query 
+=>
 Query Processing (normalize + intent + city)
-|
+=>
 FAISS Vector Search
-|
+=>
 Filter (city + intent + keyword)
-|
+=>
 Score Threshold + Guardrails
-|
+=>
 Response Generator (RAG)
