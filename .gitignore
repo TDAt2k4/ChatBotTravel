@@ -18,11 +18,7 @@ venv/
 *.faiss
 *.bin
 
-# =====================
-# Dataset (tuỳ chọn)
-# =====================
-dataset/*.csv
-dataset/*.xlsx
+
 
 # =====================
 # IDE
